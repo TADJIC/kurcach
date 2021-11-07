@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2015: "C:\Users\Дом\source\repos\WindowsFormsApp5\WindowsFormsApp5\Resources\координаты.jpg" является двоичным файлом, а не текстовым.
+dotnet_diagnostic.CS2015.severity = error
